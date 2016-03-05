@@ -92,14 +92,6 @@ end
 end
 
 
-% plot(me(1,:),'r')
-% hold on
-% plot(me(2,:),'g')
-% hold on
-% plot(me(3,:),'b')
-% hold on
-
-% 
 plot(se(1,:),'r')
 hold on
 plot(se(2,:),'g')
